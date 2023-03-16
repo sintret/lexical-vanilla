@@ -1,0 +1,31 @@
+{
+  "name": "lexical-vanilla-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@lexical/clipboard": "0.2.9",
+    "@lexical/code": "0.3.0",
+    "@lexical/hashtag": "0.3.0",
+    "@lexical/link": "0.3.0",
+    "@lexical/list": "0.3.0",
+    "@lexical/mark": "0.3.0",
+    "@lexical/markdown": "0.2.9",
+    "@lexical/offset": "0.3.0",
+    "@lexical/overflow": "0.3.0",
+    "@lexical/plain-text": "0.2.9",
+    "@lexical/selection": "0.2.9",
+    "@lexical/table": "0.3.0",
+    "@lexical/utils": "0.2.9",
+    "lexical": "0.2.9"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4"
+  },
+  "resolutions": {},
+  "keywords": []
+}
